@@ -1,6 +1,6 @@
-#Personal Loan Campaign Prediction – Machine Learning Project
+# Personal Loan Campaign Prediction – Machine Learning Project
 
-##Problem Statement
+## Problem Statement
 
 This project aims to predict whether a liability customer will accept a personal loan offer using historical data. The goal is to:
 
@@ -10,7 +10,7 @@ This project aims to predict whether a liability customer will accept a personal
 
 ---
 
-##Data Dictionary
+## Data Dictionary
 
 | Column Name         | Description |
 |---------------------|-------------|
@@ -31,7 +31,7 @@ This project aims to predict whether a liability customer will accept a personal
 
 ---
 
-##Libraries
+## Libraries
 
 - Python
 - Pandas, NumPy
@@ -42,7 +42,7 @@ This project aims to predict whether a liability customer will accept a personal
 
 ---
 
-##Model & Results
+## Model & Results
 
 - Trained multiple models for binary classification.
 - The Decision Tree model with post-pruning** yielded the best performance.
@@ -50,7 +50,7 @@ This project aims to predict whether a liability customer will accept a personal
 
 ---
 
-##Key Insights
+## Key Insights
 
 - **High Income** → more likely to accept loans.
 - **Larger Family size** → positively correlated with loan acceptance.
@@ -60,7 +60,7 @@ This project aims to predict whether a liability customer will accept a personal
 
 ---
 
-##Business Recommendations
+## Business Recommendations
 
 - **Target Segment Focus**: Customers with higher income, larger families, and higher credit card spends.
 - **Personalized Campaigns**: Focus efforts on customers with Education Level 2 & 3.
@@ -70,14 +70,14 @@ This project aims to predict whether a liability customer will accept a personal
 
 ---
 
-##Files Included
+## Files Included
 
 - `loan_campaign.html` – Exported HTML version of the notebook
 - `README.md` – Project overview and summary
 -  Dataset - csv file is present
 ---
 
-##Future Scope
+## Future Scope
 
 - Implement more advanced models like Random Forest or XGBoost.
 - Incorporate cross-validation and hyperparameter tuning.
